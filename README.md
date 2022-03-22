@@ -1,1 +1,1 @@
-# PlaywrightTutorial
+# PlaywrightJava
